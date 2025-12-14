@@ -97,3 +97,43 @@
 12/14/2025	08:52:10		00339d67-dd2e-4089-9658-86a7aaf5accc	PUT	undefined	/employees
 12/14/2025	08:52:31		8de2417d-c84e-495b-a583-372a3fb08de4	PUT	undefined	/employees
 12/14/2025	08:52:44		e8429936-d344-443a-8120-97b5ecb898b9	PUT	undefined	/employees
+12/14/2025	09:34:01		feada40a-61c9-499b-9194-fca7557590a5	GET	undefined	/employees/2
+12/14/2025	09:58:37		f3b263d4-ccc3-449e-8754-2ae69a013f8e	POST	undefined	/employees
+12/14/2025	09:59:13		14db2d58-3a3e-463e-8b51-1da3cecda610	POST	undefined	/employees
+12/14/2025	09:59:59		6ffa9302-f485-48ba-bba4-91e73a61e5f5	POST	undefined	/employees
+12/14/2025	10:03:15		cb4631c8-1753-469e-aba5-7cd3a782f4cd	GET	undefined	/employees/1
+12/14/2025	10:03:19		870ebc33-eb2c-499e-ac9a-3666cea90040	GET	undefined	/employees/3
+12/14/2025	10:03:21		e95dd09d-03ad-472c-80a6-5cc70b292594	GET	undefined	/employees/2
+12/14/2025	10:05:21		43a4ea94-d5dd-4e6a-aa18-8d61f3b6c291	GET	undefined	/employees/2
+12/14/2025	10:07:36		074a13b4-7705-43b7-b6a8-cb4d89fb56cb	DELETE	undefined	/employees
+12/14/2025	10:07:53		2e8de7d8-2c5d-496c-bc9f-bb79706835c7	DELETE	undefined	/employees
+12/14/2025	10:08:00		87cb7f36-5505-4bad-97a1-a67b0a63549b	DELETE	undefined	/employees
+12/14/2025	10:08:03		566b11bf-82bd-44df-9df0-8804779895eb	DELETE	undefined	/employees
+12/14/2025	10:08:03		e6d28d3e-bbd5-4075-abe9-5fbe92ca0e2c	Error: Cannot set headers after they are sent to the client
+12/14/2025	11:54:47		8a0442ea-fdae-476f-8859-b5cd7baa2134	DELETE	undefined	/employees
+12/14/2025	11:54:47		cf72929e-686c-417a-9865-dc31b7f9015d	Error: Cannot set headers after they are sent to the client
+12/14/2025	11:54:50		752c9e0d-f14e-4eab-8723-8e58b69afc5e	GET	undefined	/employees
+12/14/2025	11:55:32		3793438f-fd84-41d0-bd37-48194a7d0253	GET	undefined	/
+12/14/2025	11:56:57		5bf662ba-2638-4d41-94f8-6f7a9cf3934f	POST	undefined	/employees
+12/14/2025	11:57:14		db18e605-fe93-4c32-81b9-95f3373cd94e	POST	undefined	/employees
+12/14/2025	11:57:14		0c228843-c74c-4727-96af-cdfa609ca796	SyntaxError: Unexpected non-whitespace character after JSON at position 58 (line 4 column 2)
+12/14/2025	11:57:29		e91d1fce-9369-4b1e-8e80-cf87bf247906	POST	undefined	/employees
+12/14/2025	11:57:29		5f33642e-8017-435e-9010-58abbd09a953	Error: Cannot set headers after they are sent to the client
+12/14/2025	11:57:48		7645a47a-a4d8-421b-9066-fa4249a665bc	POST	undefined	/employees
+12/14/2025	11:58:07		58cf2994-60c9-4754-b536-6f69705ead04	POST	undefined	/employees
+12/14/2025	11:58:15		60697a13-4a4f-49e5-95b0-8cc8835f1c75	POST	undefined	/employees
+12/14/2025	12:02:27		71a9af92-8de9-4a87-8431-b1802574be2d	PUT	undefined	/employees
+12/14/2025	12:02:27		d410fa19-b92e-4d71-88d1-8c71118507e2	TypeError: Cannot set properties of undefined (setting 'firstname')
+12/14/2025	12:02:32		cb9b7a45-0fc3-47e9-aeba-7e016dfcb4b9	PUT	undefined	/employees/1
+12/14/2025	12:02:53		8e386802-3cf7-414a-8c0d-d227d517ebe3	PUT	undefined	/employees
+12/14/2025	12:02:58		6b02a401-427a-4606-8ef0-cbaf24314643	PUT	undefined	/employees
+12/14/2025	12:20:33		dd80d7c0-ed89-423b-b0b6-c1f827a56a6b	POST	undefined	/employees
+12/14/2025	12:20:59		031df49d-921a-4156-ab00-02451d29071c	TypeError: Cannot read properties of undefined (reading 'id')
+12/14/2025	12:20:59		11806c41-6484-4461-857e-533b81dcdd11	DELETE	undefined	/employees
+12/14/2025	12:21:28		4b0531e6-f124-4ec4-95c4-e485845f9768	DELETE	undefined	/employees
+12/14/2025	12:21:52		592620ba-3b67-4eb1-b4d7-fd0a0b79ea9b	DELETE	undefined	/employees
+12/14/2025	12:22:03		cb159c7a-4a10-4410-bead-e0c39628cbb1	POST	undefined	/employees
+12/14/2025	12:22:06		27bae0f6-c9a6-42f6-8628-ef48ac9cdbe6	POST	undefined	/employees
+12/14/2025	12:24:11		f3cbbc49-7a42-432a-99fe-43eaabd9ee8b	POST	undefined	/employees
+12/14/2025	12:24:14		969bac03-2fc8-4ed1-b600-99d2a9c784dc	POST	undefined	/employees
+12/14/2025	12:24:27		442b69c9-bb85-4bd4-bc4b-eb69db10d4d3	DELETE	undefined	/employees
